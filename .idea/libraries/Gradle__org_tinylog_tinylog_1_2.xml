@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tinylog:tinylog:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tinylog/tinylog/1.2/931d979739ff48bf76a553728146927de724b4c3/tinylog-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tinylog/tinylog/1.2/aaa142c8192a5bcc30cc415e12f818262116ece5/tinylog-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tinylog:slf4j-binding:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tinylog/slf4j-binding/1.2/1607d40ac04d6716cb856944bcf7163af30d321a/slf4j-binding-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tinylog/slf4j-binding/1.2/4f631859d61d016f64a89b6d04ecf88924983a2f/slf4j-binding-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
